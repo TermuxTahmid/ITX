@@ -138,9 +138,6 @@ clone_type=[]
 android_models = []
 
 
-bumper = id+bxd+xp
-myweb2 = requests.get(xny).text
-
 def qsbuy():
         try:
                 os.system('clear')
